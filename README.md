@@ -9,7 +9,7 @@ I have worked with only the petal features(length and width) in this experiment.
 ## Model training and predictions
 I have trained the model(KMeans) with the data and have plotted the predictions along with their predicted labels(using colors as the respective clusters) with the help of Matplotlib.
 
-## Plot depicting the training data.
+## Plot depicting the training data
 ![Screenshot (9)](https://user-images.githubusercontent.com/61016383/91636819-1aa40a80-ea21-11ea-85a7-cd77c3a967f8.png)
 
 
